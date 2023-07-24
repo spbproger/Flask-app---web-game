@@ -1,3 +1,2 @@
-# coursework_5
-
-# Закрепление полученных навыков по пройденному материалу 5-го раздела
+# Flask-app - web-game
+OOP, data typing, use of data classes and patterns, as well as description of Docker containers, nginx and Gunicorn configuration
